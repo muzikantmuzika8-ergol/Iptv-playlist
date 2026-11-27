@@ -1,0 +1,285 @@
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai1.it" tvg-name="|IT| RAI 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI1HD.png" group-title="IT | GENERALE",|IT| RAI 1 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660989.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai1.it" tvg-name="|IT| RAI 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI1HD.png" group-title="IT | GENERALE",|IT| RAI 1 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660988.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai1.it" tvg-name="|IT| RAI 1ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI1HD.png" group-title="IT | GENERALE",|IT| RAI 1ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660986.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai1.it" tvg-name="|IT| RAI 1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI1HD.png" group-title="IT | GENERALE",|IT| RAI 1 ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660985.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai2.it" tvg-name="|IT| RAI 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI2HD.png" group-title="IT | GENERALE",|IT| RAI 2 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660984.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai2.it" tvg-name="|IT| RAI 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI2HD.png" group-title="IT | GENERALE",|IT| RAI 2 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660983.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai2.it" tvg-name="|IT| RAI 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI2HD.png" group-title="IT | GENERALE",|IT| RAI 2 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660982.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai2.it" tvg-name="|IT| RAI 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI2HD.png" group-title="IT | GENERALE",|IT| RAI 2 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660981.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai2.it" tvg-name="|IT| RAI 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI2HD.png" group-title="IT | GENERALE",|IT| RAI 2 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660980.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai2.it" tvg-name="|IT| RAI 2  ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI2HD.png" group-title="IT | GENERALE",|IT| RAI 2  ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660979.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai3.it" tvg-name="|IT| RAI 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI3HD.png" group-title="IT | GENERALE",|IT| RAI 3 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660978.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai3.it" tvg-name="|IT| RAI 3" tvg-logo="http://138.199.27.237:8080/ITALY/RAI3HD.png" group-title="IT | GENERALE",|IT| RAI 3
+http://lordstreams.live:80/live/Delta/Delta/660977.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai3.it" tvg-name="|IT| RAI 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI3HD.png" group-title="IT | GENERALE",|IT| RAI 3 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660976.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai3.it" tvg-name="|IT| RAI 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI3HD.png" group-title="IT | GENERALE",|IT| RAI 3 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660975.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai3.it" tvg-name="|IT| RAI 3ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI3HD.png" group-title="IT | GENERALE",|IT| RAI 3ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660974.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai3.it" tvg-name="|IT| RAI 3  ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI3HD.png" group-title="IT | GENERALE",|IT| RAI 3  ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660973.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai4.it" tvg-name="|IT| RAI 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI4HD.png" group-title="IT | GENERALE",|IT| RAI 4 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660972.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai4.it" tvg-name="|IT| RAI 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI4HD.png" group-title="IT | GENERALE",|IT| RAI 4 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660971.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai4.it" tvg-name="|IT| RAI 4ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI4HD.png" group-title="IT | GENERALE",|IT| RAI 4ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660970.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai5.it" tvg-name="|IT| RAI 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI5HD.png" group-title="IT | GENERALE",|IT| RAI 5 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660969.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai5.it" tvg-name="|IT| RAI 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI5HD.png" group-title="IT | GENERALE",|IT| RAI 5 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660968.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rai5.it" tvg-name="|IT| RAI 5ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAI5HD.png" group-title="IT | GENERALE",|IT| RAI 5ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660967.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canale5.it" tvg-name="|IT| CANALE 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CANALE5HD.png" group-title="IT | GENERALE",|IT| CANALE 5 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660966.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canale5.it" tvg-name="|IT| CANALE 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CANALE5HD.png" group-title="IT | GENERALE",|IT| CANALE 5 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660965.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canale5.it" tvg-name="|IT| CANALE 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CANALE5HD.png" group-title="IT | GENERALE",|IT| CANALE 5 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660964.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canale5.it" tvg-name="|IT| CANALE 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CANALE5HD.png" group-title="IT | GENERALE",|IT| CANALE 5 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660963.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canale5.it" tvg-name="|IT| CANALE 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CANALE5HD.png" group-title="IT | GENERALE",|IT| CANALE 5 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660962.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canale5.it" tvg-name="|IT| CANALE 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CANALE5HD.png" group-title="IT | GENERALE",|IT| CANALE 5 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660961.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mediasetextra.it" tvg-name="|IT| MEDIASET EXTRA" tvg-logo="http://138.199.27.237:8080/ITALY/MEDIASETEXTRA.png" group-title="IT | GENERALE",|IT| MEDIASET EXTRA
+http://lordstreams.live:80/live/Delta/Delta/660960.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="20mediaset.it" tvg-name="|IT| 20 MEDIASET ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/MEDIASETEXTRA.png" group-title="IT | GENERALE",|IT| 20 MEDIASET ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660959.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="20mediaset.it" tvg-name="|IT| 27 MEDIASET ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/27MEDIASET.png" group-title="IT | GENERALE",|IT| 27 MEDIASET ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660958.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="italia1.it" tvg-name="|IT|  ITALIA 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/ITALIA1.png" group-title="IT | GENERALE",|IT|  ITALIA 1 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660957.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="italia1.it" tvg-name="|IT| ITALIA 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/ITALIA1.png" group-title="IT | GENERALE",|IT| ITALIA 1 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660956.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="italia1.it" tvg-name="|IT|  ITALIA 1" tvg-logo="http://138.199.27.237:8080/ITALY/ITALIA1.png" group-title="IT | GENERALE",|IT|  ITALIA 1
+http://lordstreams.live:80/live/Delta/Delta/660955.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="italia1.it" tvg-name="|IT| ITALIA 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/ITALIA1.png" group-title="IT | GENERALE",|IT| ITALIA 1 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660954.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="italia1.it" tvg-name="|IT| ITALIA 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/ITALIA1.png" group-title="IT | GENERALE",|IT| ITALIA 1 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660953.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="italia1.it" tvg-name="|IT|  ITALIA UNO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/ITALIA1.png" group-title="IT | GENERALE",|IT|  ITALIA UNO ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660952.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="la7.it" tvg-name="|IT| LA7 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/LA7.png" group-title="IT | GENERALE",|IT| LA7 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660951.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="la7d.it" tvg-name="|IT| LA7D ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/LA7.png" group-title="IT | GENERALE",|IT| LA7D ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660950.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="la7.it" tvg-name="|IT| LA 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/LA7.png" group-title="IT | GENERALE",|IT| LA 7 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660949.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="la5.it" tvg-name="|IT| LA 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/LA5.png" group-title="IT | GENERALE",|IT| LA 5 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660948.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rsila1.it" tvg-name="|IT| RSI LA1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1344.png" group-title="IT | GENERALE",|IT| RSI LA1 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660947.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rsila1.it" tvg-name="|IT| RSI LA1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1344.png" group-title="IT | GENERALE",|IT| RSI LA1 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660946.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rsila1.it" tvg-name="|IT| RSI LA1  ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1344.png" group-title="IT | GENERALE",|IT| RSI LA1  ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660945.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rsila2.it" tvg-name="|IT| RSI LA2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1345.png" group-title="IT | GENERALE",|IT| RSI LA2 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660944.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rsila2.it" tvg-name="|IT| RSI LA2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1345.png" group-title="IT | GENERALE",|IT| RSI LA2 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660943.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rsila2.it" tvg-name="|IT| RSI LA2  ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/1345.png" group-title="IT | GENERALE",|IT| RSI LA2  ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660942.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GRANDE FRATELLO VIP DIRETTA  1" tvg-logo="http://138.199.27.237:8080/ITALY/GRANDEFRATELLO.png" group-title="IT | GENERALE",GRANDE FRATELLO VIP DIRETTA  1
+http://lordstreams.live:80/live/Delta/Delta/660941.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GRANDE FRATELLO VIP DIRETTA 2" tvg-logo="http://138.199.27.237:8080/ITALY/GRANDEFRATELLO.png" group-title="IT | GENERALE",GRANDE FRATELLO VIP DIRETTA 2
+http://lordstreams.live:80/live/Delta/Delta/660940.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|IT| ********** INTRATTENIMENTO **********" tvg-logo="http://138.199.27.237:8080/1%20MISSING%20LOGO/ITALY%20FLAG.png" group-title="IT | GENERALE",|IT| ********** INTRATTENIMENTO **********
+http://lordstreams.live:80/live/Delta/Delta/660939.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyuno.it" tvg-name="|IT| SKY UNO  ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYUNO1HD.png" group-title="IT | GENERALE",|IT| SKY UNO  ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660938.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyuno.it" tvg-name="|IT| SKY UNO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYUNO1HD.png" group-title="IT | GENERALE",|IT| SKY UNO ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660937.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyuno.it" tvg-name="|IT| SKY UNO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYUNO1HD.png" group-title="IT | GENERALE",|IT| SKY UNO ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660936.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyuno.it" tvg-name="|IT| SKY UNO +1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYUNO1HD.png" group-title="IT | GENERALE",|IT| SKY UNO +1 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660935.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyarte.it" tvg-name="|IT| SKY ARTE  ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png" group-title="IT | GENERALE",|IT| SKY ARTE  ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660934.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyarte.it" tvg-name="|IT| SKY ARTE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png" group-title="IT | GENERALE",|IT| SKY ARTE ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660933.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyarte.it" tvg-name="|IT| SKY ARTE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png" group-title="IT | GENERALE",|IT| SKY ARTE ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660932.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raimovie.it" tvg-name="|IT| RAI MOVIE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIMOVIEHD.png" group-title="IT | GENERALE",|IT| RAI MOVIE ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660931.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raimovie.it" tvg-name="|IT| RAI MOVIE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIMOVIEHD.png" group-title="IT | GENERALE",|IT| RAI MOVIE ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660930.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raimovie.it" tvg-name="|IT| RAI MOVIE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIMOVIEHD.png" group-title="IT | GENERALE",|IT| RAI MOVIE ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660929.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raimovie.it" tvg-name="|IT|  RAI MOVIE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIMOVIEHD.png" group-title="IT | GENERALE",|IT|  RAI MOVIE ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660928.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raimovie.it" tvg-name="|IT| Rai Movie ᴴᴰ [Multi-Sub]" tvg-logo="http://138.199.27.237:8080/ITALY/RAIMOVIEHD.png" group-title="IT | GENERALE",|IT| Rai Movie ᴴᴰ [Multi-Sub]
+http://lordstreams.live:80/live/Delta/Delta/660927.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raimovie.it" tvg-name="|IT| RAI MOVIE ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIMOVIEHD.png" group-title="IT | GENERALE",|IT| RAI MOVIE ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660926.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raipremium.it" tvg-name="|IT| RAI PREMIUM ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIPREMIUMHD.png" group-title="IT | GENERALE",|IT| RAI PREMIUM ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660925.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raipremium.it" tvg-name="|IT| RAI PREMIUM ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIPREMIUMHD.png" group-title="IT | GENERALE",|IT| RAI PREMIUM ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660924.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raipremium.it" tvg-name="|IT| RAI PREMIUM  ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIPREMIUMHD.png" group-title="IT | GENERALE",|IT| RAI PREMIUM  ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660923.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raipremium.it" tvg-name="|IT| RAI PREMIUM ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIPREMIUMHD.png" group-title="IT | GENERALE",|IT| RAI PREMIUM ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660922.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raipremium.it" tvg-name="|IT| RAI PREMIUM" tvg-logo="http://138.199.27.237:8080/ITALY/RAIPREMIUMHD.png" group-title="IT | GENERALE",|IT| RAI PREMIUM
+http://lordstreams.live:80/live/Delta/Delta/660921.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="la7.it" tvg-name="|IT| LA7 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/LA7.png" group-title="IT | GENERALE",|IT| LA7 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660920.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="la7.it" tvg-name="|IT| LA7 D ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/LA7.png" group-title="IT | GENERALE",|IT| LA7 D ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660919.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mediasetextra.it" tvg-name="|IT| MEDIASET EXTRA" tvg-logo="http://138.199.27.237:8080/ITALY/MEDIASETEXTRA.png" group-title="IT | GENERALE",|IT| MEDIASET EXTRA
+http://lordstreams.live:80/live/Delta/Delta/660918.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mediasetextra.it" tvg-name="|IT| MEDIASET EXTRA" tvg-logo="http://138.199.27.237:8080/ITALY/MEDIASETEXTRA.png" group-title="IT | GENERALE",|IT| MEDIASET EXTRA
+http://lordstreams.live:80/live/Delta/Delta/660917.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="iris.it" tvg-name="|IT| IRIS" tvg-logo="http://138.199.27.237:8080/ITALY/IRIS.png" group-title="IT | GENERALE",|IT| IRIS
+http://lordstreams.live:80/live/Delta/Delta/660916.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="20mediaset.it" tvg-name="|IT| MEDIASET ITALIA DUE" tvg-logo="http://138.199.27.237:8080/ITALY/MEDIASETITALIADUE.png" group-title="IT | GENERALE",|IT| MEDIASET ITALIA DUE
+http://lordstreams.live:80/live/Delta/Delta/660915.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiscuola.it" tvg-name="|IT| RAI SCUOLA ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISCUOLA.png" group-title="IT | GENERALE",|IT| RAI SCUOLA ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660914.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiscuola.it" tvg-name="|IT| RAI SCUOLA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISCUOLA.png" group-title="IT | GENERALE",|IT| RAI SCUOLA ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660913.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiscuola.it" tvg-name="|IT| RAI STORIA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISTORIA.png" group-title="IT | GENERALE",|IT| RAI STORIA ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660912.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiscuola.it" tvg-name="|IT| RAI STORIA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISTORIA.png" group-title="IT | GENERALE",|IT| RAI STORIA ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660911.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiscuola.it" tvg-name="|IT| RAI STORIA ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISTORIA.png" group-title="IT | GENERALE",|IT| RAI STORIA ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660910.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="retequattro.it" tvg-name="|IT| RETE 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RETE4HD.png" group-title="IT | GENERALE",|IT| RETE 4 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660909.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="retequattro.it" tvg-name="|IT| RETE 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RETE4HD.png" group-title="IT | GENERALE",|IT| RETE 4 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660908.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="retequattro.it" tvg-name="|IT| RETE 4  ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RETE4HD.png" group-title="IT | GENERALE",|IT| RETE 4  ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660907.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="retequattro.it" tvg-name="|IT| RETE 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RETE4HD.png" group-title="IT | GENERALE",|IT| RETE 4 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660906.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="retequattro.it" tvg-name="|IT| RETE 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RETE4HD.png" group-title="IT | GENERALE",|IT| RETE 4 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660905.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="retequattro.it" tvg-name="|IT| RETE 4" tvg-logo="http://138.199.27.237:8080/ITALY/RETE4HD.png" group-title="IT | GENERALE",|IT| RETE 4
+http://lordstreams.live:80/live/Delta/Delta/660904.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtl1025tv.it" tvg-name="|IT| RTL 102.5" tvg-logo="http://138.199.27.237:8080/ITALY/RTL102.5.png" group-title="IT | GENERALE",|IT| RTL 102.5
+http://lordstreams.live:80/live/Delta/Delta/660903.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="topcalcio24.it" tvg-name="|IT| TOP CALCIO 24" tvg-logo="http://138.199.27.237:8080/ITALY/TOPCALCIO24.png" group-title="IT | GENERALE",|IT| TOP CALCIO 24
+http://lordstreams.live:80/live/Delta/Delta/660902.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgcom24.it" tvg-name="|IT| TG COM 24" tvg-logo="http://138.199.27.237:8080/ITALY/TGCOM24.png" group-title="IT | GENERALE",|IT| TG COM 24
+http://lordstreams.live:80/live/Delta/Delta/660901.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="topcrime.it" tvg-name="|IT| TOP CRIME" tvg-logo="http://138.199.27.237:8080/ITALY/TOPCRIME.png" group-title="IT | GENERALE",|IT| TOP CRIME
+http://lordstreams.live:80/live/Delta/Delta/660900.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cielo.it" tvg-name="|IT| CIELO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CIELOHD.png" group-title="IT | GENERALE",|IT| CIELO ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660899.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cielo.it" tvg-name="|IT| CIELO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CIELOHD.png" group-title="IT | GENERALE",|IT| CIELO ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660898.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cielo.it" tvg-name="|IT|  CIELO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CIELOHD.png" group-title="IT | GENERALE",|IT|  CIELO ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660897.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cielo.it" tvg-name="|IT| CIELO  ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CIELOHD.png" group-title="IT | GENERALE",|IT| CIELO  ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660896.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="27mediaset.it" tvg-name="|IT| 27 TWENTYSEVEN ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/27MEDIASET.png" group-title="IT | GENERALE",|IT| 27 TWENTYSEVEN ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660895.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiumchannel.al" tvg-name="|IT| PREMIUM CRIME ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/PREMIUMCRIME.png" group-title="IT | GENERALE",|IT| PREMIUM CRIME ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660894.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|IT| GRANDE FRATELLO VIP DIRETTA  1" tvg-logo="http://138.199.27.237:8080/ITALY/GRANDEFRATELLO.png" group-title="IT | GENERALE",|IT| GRANDE FRATELLO VIP DIRETTA  1
+http://lordstreams.live:80/live/Delta/Delta/660893.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|IT| GRANDE FRATELLO VIP DIRETTA 2" tvg-logo="http://138.199.27.237:8080/ITALY/GRANDEFRATELLO.png" group-title="IT | GENERALE",|IT| GRANDE FRATELLO VIP DIRETTA 2
+http://lordstreams.live:80/live/Delta/Delta/660892.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountchannel.it" tvg-name="|IT| PARAMOUNT CHANNEL ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/PARAMOUNTCHANNELHD.png" group-title="IT | GENERALE",|IT| PARAMOUNT CHANNEL ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660891.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="reteconomy.it" tvg-name="|IT| SKY RETE 7" tvg-logo="http://138.199.27.237:8080/ITALY/RETE7.png" group-title="IT | GENERALE",|IT| SKY RETE 7
+http://lordstreams.live:80/live/Delta/Delta/660890.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.it" tvg-name="|IT| DMAX ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DMAX.png" group-title="IT | GENERALE",|IT| DMAX ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660889.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cacciapesca.it" tvg-name="|IT| PESCA E CACCIA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/PESCAECACCIA.png" group-title="IT | GENERALE",|IT| PESCA E CACCIA ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660888.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hgtv.it" tvg-name="|IT| HGTV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/3501.png" group-title="IT | GENERALE",|IT| HGTV ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660887.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rainews.it" tvg-name="|IT| RAI NEWS24 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAINEWS24HD.png" group-title="IT | GENERALE",|IT| RAI NEWS24 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660886.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rainews.it" tvg-name="|IT| RAI NEWS 24 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAINEWS24HD.png" group-title="IT | GENERALE",|IT| RAI NEWS 24 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660885.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rainews.it" tvg-name="|IT| RAI NEWS 24 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAINEWS24HD.png" group-title="IT | GENERALE",|IT| RAI NEWS 24 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660884.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rainews.it" tvg-name="|IT| RAI NEWS 24 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAINEWS24HD.png" group-title="IT | GENERALE",|IT| RAI NEWS 24 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660883.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skytg24.it" tvg-name="|IT| SKY TG24 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYTG24.png" group-title="IT | GENERALE",|IT| SKY TG24 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660882.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.it" tvg-name="|IT| TV8 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/TV8.png" group-title="IT | GENERALE",|IT| TV8 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660881.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.it" tvg-name="|IT| TV8 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/TV8.png" group-title="IT | GENERALE",|IT| TV8 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660880.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nove.it" tvg-name="|IT| NOVE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/NOVE.png" group-title="IT | GENERALE",|IT| NOVE ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660879.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nove.it" tvg-name="|IT| NOVE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/NOVE.png" group-title="IT | GENERALE",|IT| NOVE ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660878.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nove.it" tvg-name="|IT| DISCOVERY NOVE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/NOVE.png" group-title="IT | GENERALE",|IT| DISCOVERY NOVE ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660877.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nove.it" tvg-name="|IT| NOVE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/NOVE.png" group-title="IT | GENERALE",|IT| NOVE ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660876.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nove.it" tvg-name="|IT| NOVE ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/NOVE.png" group-title="IT | GENERALE",|IT| NOVE ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660875.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="giallo.it" tvg-name="|IT| GIALLO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/GIALLO.png" group-title="IT | GENERALE",|IT| GIALLO ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660874.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="giallo.it" tvg-name="|IT| GIALLO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/GIALLO.png" group-title="IT | GENERALE",|IT| GIALLO ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660873.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="giallo.it" tvg-name="|IT| GIALLO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/GIALLO.png" group-title="IT | GENERALE",|IT| GIALLO ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660872.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="realtime.it" tvg-name="|IT| REAL TIME ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/REALTIMEHD.png" group-title="IT | GENERALE",|IT| REAL TIME ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660871.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="realtime.it" tvg-name="|IT| REAL TIME ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/REALTIMEHD.png" group-title="IT | GENERALE",|IT| REAL TIME ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660870.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="realtime.it" tvg-name="|IT| REAL TIME ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/REALTIMEHD.png" group-title="IT | GENERALE",|IT| REAL TIME ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660869.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv2000.it" tvg-name="|IT| TV2000 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/TV2000.png" group-title="IT | GENERALE",|IT| TV2000 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660868.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv2000.it" tvg-name="|IT| TV 2000" tvg-logo="http://138.199.27.237:8080/ITALY/TV2000.png" group-title="IT | GENERALE",|IT| TV 2000
+http://lordstreams.live:80/live/Delta/Delta/660867.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uniresat.it" tvg-name="|IT| UNIRE SAT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/UNIRESAT.png" group-title="IT | GENERALE",|IT| UNIRE SAT ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660866.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uniresat.it" tvg-name="|IT| UNIRESAT" tvg-logo="http://138.199.27.237:8080/ITALY/UNIRESAT.png" group-title="IT | GENERALE",|IT| UNIRESAT
+http://lordstreams.live:80/live/Delta/Delta/660865.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uniresat.it" tvg-name="|IT| UNIRESAT" tvg-logo="http://138.199.27.237:8080/ITALY/UNIRESAT.png" group-title="IT | GENERALE",|IT| UNIRESAT
+http://lordstreams.live:80/live/Delta/Delta/660864.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motortrend.it" tvg-name="|IT| MOTOR TREND ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/MOTORTREND.png" group-title="IT | GENERALE",|IT| MOTOR TREND ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660863.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motortrend.it" tvg-name="|IT| MOTOR TREND  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/MOTORTREND.png" group-title="IT | GENERALE",|IT| MOTOR TREND  ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660862.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.it" tvg-name="|IT| FOOD NETWORK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/FOODNETWORK.png" group-title="IT | GENERALE",|IT| FOOD NETWORK ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660861.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.it" tvg-name="|IT| FOOD NETWORK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/FOODNETWORK.png" group-title="IT | GENERALE",|IT| FOOD NETWORK ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660860.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.it" tvg-name="|IT| Food Network" tvg-logo="http://138.199.27.237:8080/ITALY/FOODNETWORK.png" group-title="IT | GENERALE",|IT| Food Network
+http://lordstreams.live:80/live/Delta/Delta/660859.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.it" tvg-name="|IT| HISTORY +1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/HISTORYFHD.png" group-title="IT | GENERALE",|IT| HISTORY +1 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660858.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cacciapesca.it" tvg-name="|IT| CACCIAEPESCA" tvg-logo="http://138.199.27.237:8080/ITALY/PESCAECACCIA.png" group-title="IT | GENERALE",|IT| CACCIAEPESCA
+http://lordstreams.live:80/live/Delta/Delta/660857.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="la7.it" tvg-name="|IT| LA 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/LA7.png" group-title="IT | GENERALE",|IT| LA 7 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660856.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.it" tvg-name="|IT| TV8 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/TV8.png" group-title="IT | GENERALE",|IT| TV8 ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660855.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.it" tvg-name="|IT| TV 8  ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/TV8.png" group-title="IT | GENERALE",|IT| TV 8  ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/660854.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vh1.it" tvg-name="|IT| VH-1 ITALIA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/VH1.png" group-title="IT | GENERALE",|IT| VH-1 ITALIA ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660853.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vh1.it" tvg-name="|IT| VH1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/VH1.png" group-title="IT | GENERALE",|IT| VH1 ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660852.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alice.it" tvg-name="|IT| ALICE" tvg-logo="http://138.199.27.237:8080/ITALY/ALICE.png" group-title="IT | GENERALE",|IT| ALICE
+http://lordstreams.live:80/live/Delta/Delta/660851.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|IT| PADRE PIO TV" tvg-logo="http://138.199.27.237:8080/ITALY/PADREPIOTV.png" group-title="IT | GENERALE",|IT| PADRE PIO TV
+http://lordstreams.live:80/live/Delta/Delta/660850.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiscuola.it" tvg-name="|IT| RAI  SCUOLA ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISCUOLA.png" group-title="IT | GENERALE",|IT| RAI  SCUOLA ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/660849.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="super.it" tvg-name="|IT| SUPER" tvg-logo="http://138.199.27.237:8080/ITALY/SUPER.png" group-title="IT | GENERALE",|IT| SUPER
+http://lordstreams.live:80/live/Delta/Delta/660848.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgnorba24.it" tvg-name="|IT| TG NORBA 24" tvg-logo="http://138.199.27.237:8080/ITALY/TGNORBA24.png" group-title="IT | GENERALE",|IT| TG NORBA 24
+http://lordstreams.live:80/live/Delta/Delta/660847.m3u8
