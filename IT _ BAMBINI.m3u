@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiyoyo.it" tvg-name="|IT| RAI YOYO ᵁᴴᴰ [Multi-Sub]" tvg-logo="https://logo.m3uassets.com/raiyoyo.png" group-title="IT | BAMBINI",|IT| RAI YOYO ᵁᴴᴰ [Multi-Sub]
+http://lordstreams.live:80/live/Delta/Delta/661578.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiyoyo.it" tvg-name="|IT| RAI YOYO ᵁᴴᴰ" tvg-logo="https://logo.m3uassets.com/raiyoyo.png" group-title="IT | BAMBINI",|IT| RAI YOYO ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661577.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiyoyo.it" tvg-name="|IT| RAI YOYO ᴴᴰ" tvg-logo="https://logo.m3uassets.com/raiyoyo.png" group-title="IT | BAMBINI",|IT| RAI YOYO ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661576.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raigulp.it" tvg-name="|IT| RAI GULP ᵁᴴᴰ [Multi-Sub]" tvg-logo="https://logo.m3uassets.com/raigulp.png" group-title="IT | BAMBINI",|IT| RAI GULP ᵁᴴᴰ [Multi-Sub]
+http://lordstreams.live:80/live/Delta/Delta/661575.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raigulp.it" tvg-name="|IT| RAI GULP ᵁᴴᴰ" tvg-logo="https://logo.m3uassets.com/raigulp.png" group-title="IT | BAMBINI",|IT| RAI GULP ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661574.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raigulp.it" tvg-name="|IT| RAI GULP ᴴᴰ" tvg-logo="https://logo.m3uassets.com/raigulp.png" group-title="IT | BAMBINI",|IT| RAI GULP ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661573.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boing.it" tvg-name="|IT| BOING ᴴᴰ" tvg-logo="https://logo.m3uassets.com/boing.png" group-title="IT | BAMBINI",|IT| BOING ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661572.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.it" tvg-name="|IT| CARTOON NETWORK ᵁᴴᴰ" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="IT | BAMBINI",|IT| CARTOON NETWORK ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661571.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.it" tvg-name="|IT| CARTOON NETWORK  ᴴᴰ" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="IT | BAMBINI",|IT| CARTOON NETWORK  ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661570.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|IT| cartoonito ᴴᴰ" tvg-logo="https://logo.m3uassets.com/cartoonito.png" group-title="IT | BAMBINI",|IT| cartoonito ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661569.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.it" tvg-name="|IT| CARTOON ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CARTOONITO.png" group-title="IT | BAMBINI",|IT| CARTOON ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661568.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.it" tvg-name="|IT| BOOMERANG ᴴᴰ" tvg-logo="https://logo.m3uassets.com/boomerang.png" group-title="IT | BAMBINI",|IT| BOOMERANG ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661567.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.it" tvg-name="|IT| BOOMERANG" tvg-logo="https://logo.m3uassets.com/boomerang.png" group-title="IT | BAMBINI",|IT| BOOMERANG
+http://lordstreams.live:80/live/Delta/Delta/661566.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.it" tvg-name="|IT| NICKELODEON ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" group-title="IT | BAMBINI",|IT| NICKELODEON ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661565.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.it" tvg-name="|IT| NICKELODEON  ˢᴰ" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="IT | BAMBINI",|IT| NICKELODEON  ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/661564.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjunior.it" tvg-name="|IT| NICK JR ᵁᴴᴰ" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="IT | BAMBINI",|IT| NICK JR ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661563.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjunior.it" tvg-name="|IT| NICK JR ᴴᴰ" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="IT | BAMBINI",|IT| NICK JR ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661562.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjunior.it" tvg-name="|IT| NICKJR ˢᴰ" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="IT | BAMBINI",|IT| NICKJR ˢᴰ
+http://lordstreams.live:80/live/Delta/Delta/661561.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deakids.it" tvg-name="|IT| DEA KIDS ᵁᴴᴰ" tvg-logo="https://logo.m3uassets.com/deakids.png" group-title="IT | BAMBINI",|IT| DEA KIDS ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661560.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deakids.it" tvg-name="|IT| DEA KIDS ᵁᴴᴰ" tvg-logo="https://logo.m3uassets.com/deakids.png" group-title="IT | BAMBINI",|IT| DEA KIDS ᵁᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661559.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deakids.it" tvg-name="|IT| DEA KIDS ᴴᴰ" tvg-logo="https://logo.m3uassets.com/deakids.png" group-title="IT | BAMBINI",|IT| DEA KIDS ᴴᴰ
+http://lordstreams.live:80/live/Delta/Delta/661558.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frisbee.it" tvg-name="|IT| FRISBEE" tvg-logo="https://logo.m3uassets.com/frisbee.png" group-title="IT | BAMBINI",|IT| FRISBEE
+http://lordstreams.live:80/live/Delta/Delta/661557.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="k2.it" tvg-name="|IT| K2" tvg-logo="https://logo.m3uassets.com/k2.png" group-title="IT | BAMBINI",|IT| K2
+http://lordstreams.live:80/live/Delta/Delta/661556.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frisbee.it" tvg-name="|IT| SKY FRISBEE MINI" tvg-logo="https://logo.m3uassets.com/frisbee.png" group-title="IT | BAMBINI",|IT| SKY FRISBEE MINI
+http://lordstreams.live:80/live/Delta/Delta/661555.m3u8
